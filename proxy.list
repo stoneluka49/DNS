@@ -26,7 +26,7 @@ HOST-SUFFIX, pixelscan.net, PROXY
 
 # 哔哩哔哩API域名
 DOMAIN-SUFFIX,biliapi.net,PROXY
-# 哔哩哔哩海外版？（使用性存疑）
-# DOMAIN,api.bilibili.tv,PROXY
+# 哔哩哔哩海外版
+ DOMAIN,api.bilibili.com,PROXY
 # 哔哩哔哩App的API域名
 DOMAIN-SUFFIX,biliapi.com,PROXY
