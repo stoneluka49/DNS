@@ -24,6 +24,4 @@ HOST-SUFFIX, surfsharkdns.com, PROXY
 # Pixelscan
 HOST-SUFFIX, pixelscan.net, PROXY
 
-#微信
-DOMAIN,dns.weixin.qq.com.cn
-DOMAIN,dns.weixin.qq.com
+
