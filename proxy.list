@@ -24,9 +24,4 @@ HOST-SUFFIX, surfsharkdns.com, PROXY
 # Pixelscan
 HOST-SUFFIX, pixelscan.net, PROXY
 
-#BOSS直聘
-DOMAIN-SUFFIX,logapi-ios.zhipin.com,PROXY
-DOMAIN-SUFFIX,sofire.baidu.com,PROXY
 
-#中国联通
-DOMAIN-SUFFIX,devs.data.mob.com,PROXY
